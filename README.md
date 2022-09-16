@@ -7,5 +7,6 @@
 - **увлекаюсь [фотографией](https://500px.com/p/Fedroff?view=photos)**
 
 ### В данный момент решил сменить профессию и учусь в Нетологии на курсе *Веб-разработчик с нуля*.
+Мне очень нравится обучение всем советую.
 
 ![](https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/366/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.png)
